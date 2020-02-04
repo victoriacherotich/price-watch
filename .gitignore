@@ -1,0 +1,5 @@
+# This file is used to keep unnecessary files out of git
+
+# We can safely ignore the node_modules folder since you can 
+#  simply rebuild it using the `npm install` command
+node_modules/
